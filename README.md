@@ -22,7 +22,7 @@ This project takes my [HTML-only taco shop](https://github.com/bmedeiros2001/Tac
 
 ## 🔗 Live Demo
 
-[View the website](your-github-pages-url-here)
+[View the website](https://bmedeiros2001.github.io/Little-Taco-Shop-CSS/)
 
 ## 🙏 Credits
 
